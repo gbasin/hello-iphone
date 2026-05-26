@@ -1,6 +1,6 @@
 # Hello iPhone
 
-This repo contains a reusable Codex skill derived from the 2007 iPhone launch. The point is not to rebuild that keynote for its own sake. The point is to apply its rhetorical product-pitch architecture to new products and new formats: decks, websites, launch posts, sales materials, demo scripts, founder stories, investor narratives, and other go-to-market artifacts.
+This repo packages the 2007 iPhone launch as a reusable persuasion framework: a Slidev reference deck, source materials, and a Codex skill for adapting the structure to new products. The point is not to rebuild that keynote for its own sake. The point is to apply its rhetorical product-pitch architecture to new products and new formats: decks, websites, launch posts, sales materials, demo scripts, founder stories, investor narratives, and other go-to-market artifacts.
 
 The included Slidev deck is the reference case. It breaks down how the iPhone launch changes audience belief through category framing, status-quo contrast, mechanism reveal, demo proof, repetition, value anchoring, and a compressed close.
 

@@ -1,4 +1,4 @@
-# Steve Jobs iPhone 2007 Slidev Study
+# Hello iPhone
 
 This repo rebuilds the 2007 iPhone launch as a Slidev study deck. It merges:
 

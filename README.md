@@ -4,6 +4,12 @@ This repo packages the 2007 iPhone launch as a reusable persuasion framework: a 
 
 The included Slidev deck is the reference case. It breaks down how the iPhone launch changes audience belief through category framing, status-quo contrast, mechanism reveal, demo proof, repetition, value anchoring, and a compressed close.
 
+## Install
+
+```bash
+npx skills add gbasin/hello-iphone --all -g
+```
+
 ## Skill
 
 `SKILL.md` is an agent-facing playbook for adapting the iPhone launch structure to other products.

@@ -1,6 +1,6 @@
 ---
 name: iphone-launch-pitch-adapter
-description: Apply the 2007 iPhone launch's rhetorical product-pitch architecture to create new decks, websites, launch narratives, sales materials, demos, and story artifacts for other products.
+description: Apply the 2007 iPhone launch's rhetorical product-pitch architecture to create persuasive decks, websites, launch narratives, sales materials, demo scripts, or stories for other products. Use when a product needs sharper category framing, status-quo contrast, mechanism reveal, proof-by-demo, value anchoring, or a more memorable close. Avoid cosmetic Apple imitation; adapt the structure to the target product, audience, proof, and medium.
 ---
 
 # iPhone Launch Pitch Adapter

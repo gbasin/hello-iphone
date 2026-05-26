@@ -46,32 +46,32 @@ When adapting, translate each example into the target product's own category, me
 
 ## Transfer Examples
 
-### Compliance Automation Product
+### Bank Compliance Exam Prep
 
-- Old world: compliance teams choose between slow manual review and brittle rule-based tooling.
-- Structural constraint: policy, evidence, and exceptions live in separate systems, so reviewers cannot see the full decision context.
-- Mechanism: a workflow engine links policy controls, source evidence, model-assisted review, and auditable approvals.
-- Proof verbs: ingest, match, flag, approve, escalate, export.
-- Familiarity bridge: preserves the existing control framework and approval chain.
-- Close: compliance work becomes continuous instead of episodic.
+- Old world: compliance teams discover gaps during exam season, when every answer is already urgent.
+- Structural constraint: requests, controls, evidence, exceptions, and approvals live in separate systems, so no one can see whether an exam response is complete until people manually stitch it together.
+- Mechanism: a control-evidence workspace links each examiner request to source documents, ownership, review status, exceptions, and an exportable audit trail.
+- Proof verbs: import the request list, map controls, attach evidence, flag gaps, route approvals, export the response packet.
+- Familiarity bridge: keeps the bank's existing control framework and approval chain instead of forcing a new compliance taxonomy.
+- Close: exam prep becomes a live readiness system, not a quarterly scramble.
 
 ### AI Research Tool
 
-- Old world: researchers split ideation, literature review, experiments, and notes across disconnected tools.
-- Structural constraint: context gets lost between reading, coding, and evaluation.
-- Mechanism: a shared research workspace keeps papers, hypotheses, code runs, and benchmark results in one traceable loop.
-- Proof verbs: search, compare, reproduce, run, score, cite.
-- Familiarity bridge: exports notebooks, BibTeX, and Markdown so the workflow fits existing research habits.
-- Close: research memory becomes part of the lab, not the researcher's burden.
+- Old world: researchers move from papers to notes to code to benchmark tables, losing the reason each experiment existed.
+- Structural constraint: literature, hypotheses, runs, failures, and citations are stored in different places, so the research thread breaks whenever the work changes medium.
+- Mechanism: a shared research workspace binds papers, claims, experiment configs, results, and writeups into one traceable loop.
+- Proof verbs: collect papers, extract claims, compare baselines, launch runs, score results, generate citations.
+- Familiarity bridge: exports notebooks, BibTeX, Markdown, and result tables so the workflow still fits existing lab habits.
+- Close: the lab remembers why each experiment was run.
 
-### Consumer Hardware Product
+### Smart Home Hardware Product
 
-- Old world: users accept a tradeoff between capability and everyday convenience.
-- Structural constraint: controls, setup, and maintenance were designed for enthusiasts, not daily life.
-- Mechanism: the product hides configuration behind sensing, automation, and a simpler physical interface.
-- Proof verbs: open, tap, pair, adjust, share, recover.
-- Familiarity bridge: uses known gestures, household routines, or phone-native setup.
-- Close: the advanced version becomes the normal version.
+- Old world: smart home devices promise automation but make ordinary households manage pairing, scenes, firmware, and failure states.
+- Structural constraint: each device has its own app, permissions, and setup logic, so the home never feels like one system.
+- Mechanism: a room-aware hub discovers devices, infers routines, and exposes a single physical control for the actions people repeat every day.
+- Proof verbs: plug in, discover, name the room, tap to run a routine, adjust once, recover automatically.
+- Familiarity bridge: setup happens through the phone, but daily control works like a light switch.
+- Close: the smart home becomes a home again.
 
 ## Required Inputs
 

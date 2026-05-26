@@ -25,6 +25,54 @@ The iPhone launch works because it changes what the audience believes before it 
 
 Adapt the order when needed, but preserve the belief-change logic.
 
+## Reference Anatomy
+
+Use these examples as anchors for the structure, not as language to copy:
+
+- Historical permission: Macintosh changed personal computing; iPod changed music; therefore Apple has standing to claim another category shift.
+- Three-in-one reveal: iPod, phone, and Internet communicator are named separately, repeated, then collapsed into one product.
+- Enemy framing: existing smartphones are trapped by fixed keyboards and buttons that cannot adapt to each application.
+- White-space map: regular phones are easy but not smart; smartphones are smarter but hard to use; the new product claims smart and easy.
+- Mechanism reveal: a giant screen plus multi-touch makes the interface adaptable, direct, and software-defined.
+- Familiarity bridge: iTunes sync makes the new device feel operationally familiar to people who already understand iPods.
+- Demo by verbs: unlock, scroll, pinch, call, merge, type, browse, zoom, search, map.
+- Objection by demo: the soft keyboard is not defended abstractly; it is shown inside a normal messaging task.
+- Category escalation: Safari is framed as the real web, not a reduced mobile substitute.
+- Humor after proof: the Starbucks call works because maps, search, calling, and touch have already been demonstrated.
+- Value anchoring: price is framed against the combined value of the device, apps, and category breakthrough.
+- Slogan compression: "reinvent the phone" lands because the proof sequence has already made that conclusion plausible.
+
+When adapting, translate each example into the target product's own category, mechanism, evidence, and voice.
+
+## Transfer Examples
+
+### Compliance Automation Product
+
+- Old world: compliance teams choose between slow manual review and brittle rule-based tooling.
+- Structural constraint: policy, evidence, and exceptions live in separate systems, so reviewers cannot see the full decision context.
+- Mechanism: a workflow engine links policy controls, source evidence, model-assisted review, and auditable approvals.
+- Proof verbs: ingest, match, flag, approve, escalate, export.
+- Familiarity bridge: preserves the existing control framework and approval chain.
+- Close: compliance work becomes continuous instead of episodic.
+
+### AI Research Tool
+
+- Old world: researchers split ideation, literature review, experiments, and notes across disconnected tools.
+- Structural constraint: context gets lost between reading, coding, and evaluation.
+- Mechanism: a shared research workspace keeps papers, hypotheses, code runs, and benchmark results in one traceable loop.
+- Proof verbs: search, compare, reproduce, run, score, cite.
+- Familiarity bridge: exports notebooks, BibTeX, and Markdown so the workflow fits existing research habits.
+- Close: research memory becomes part of the lab, not the researcher's burden.
+
+### Consumer Hardware Product
+
+- Old world: users accept a tradeoff between capability and everyday convenience.
+- Structural constraint: controls, setup, and maintenance were designed for enthusiasts, not daily life.
+- Mechanism: the product hides configuration behind sensing, automation, and a simpler physical interface.
+- Proof verbs: open, tap, pair, adjust, share, recover.
+- Familiarity bridge: uses known gestures, household routines, or phone-native setup.
+- Close: the advanced version becomes the normal version.
+
 ## Required Inputs
 
 Before creating, gather or infer:

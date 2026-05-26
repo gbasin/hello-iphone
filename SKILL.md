@@ -88,6 +88,30 @@ Before creating, gather or infer:
 
 If key inputs are missing, make the smallest reasonable assumptions and mark them briefly. Ask questions only when the missing input would materially change the strategy.
 
+## Positioning Preflight
+
+Before creating a deck, website, narrative, or sales artifact with ambiguous positioning, briefly lock these choices:
+
+- Sold object: what the buyer is actually being asked to adopt, purchase, approve, or believe in.
+- Demo object: the concrete thing that makes the product easy to picture.
+- Mechanism: the invention, workflow, substrate, model, or system that makes the claim true.
+- Audience mental model: what familiar category the audience will compare this against first.
+- Category collision: what the product could be mistaken for, and why that would weaken the pitch.
+- Scariest objection: the doubt the artifact must answer through proof, not reassurance.
+- Positive reveal: the familiar nouns, jobs, actions, or objects used before abstract architecture.
+- Forbidden lead: wording that would create the wrong mental model.
+
+If the positioning is high-stakes or the user is still debating the category, do not rush into artifact creation. First propose a short narrative spine with rejected framings and why they were rejected. Proceed once the spine is coherent, or make clearly marked assumptions if the user wants speed.
+
+## Positive Object Test
+
+The iPhone was not first made graspable as a software-defined mobile interaction substrate. It was first made graspable as an iPod, a phone, and an Internet communicator. Use the same discipline:
+
+- Lead with something the audience can picture: a job, object, workflow moment, physical action, before/after state, or familiar bundle of things.
+- Introduce abstractions like platform, layer, protocol, substrate, infrastructure, rails, engine, graph, operating system, or network only after the audience has a concrete handle.
+- Use negation to weaken the old world, not as the product reveal. "Not X, not Y" is a setup. The reveal must name the new positive thing.
+- If the best strategic category is abstract, create a more tangible audience-facing reveal first, then explain the architecture underneath it.
+
 ## Adaptation Workflow
 
 1. Name the old world.
@@ -98,11 +122,13 @@ If key inputs are missing, make the smallest reasonable assumptions and mark the
 2. Draw the white space.
    - Create a simple contrast or map: not enough of X, too much of Y, smart but hard, powerful but inaccessible, fast but untrusted, personal but unscalable.
    - Position the product as the missing quadrant or new rule.
+   - Check whether the proposed category accidentally sounds like a familiar incumbent, a new product category the audience did not ask for, or a consulting wrapper.
 
 3. Reveal the mechanism.
    - Explain the product's core breakthrough as the natural answer to the constraint.
    - Use plain-language causality: because this changed, that old tradeoff disappears.
    - Avoid leading with a feature list.
+   - Separate the audience-facing object from the underlying mechanism when needed: first what it is like to use or buy, then why it works.
 
 4. Bridge the unfamiliar.
    - Pair every radical claim with something the audience already knows: an existing workflow, trusted institution, installed behavior, familiar metaphor, or common daily job.
@@ -112,6 +138,7 @@ If key inputs are missing, make the smallest reasonable assumptions and mark the
    - Build demos around actions, not nouns: touch, search, approve, reconcile, underwrite, generate, compare, invite, deploy, recover, close.
    - Sequence proof from the smallest credible action to the highest-value workflow.
    - Put risky objections into the demo instead of hiding them.
+   - Name the scariest objection before planning the demo. The demo should make the objection visible in context and answer it through successful action.
 
 6. Add rhetorical texture.
    - Use questions to keep the audience mentally active.
@@ -131,9 +158,11 @@ Build a deck around belief changes, not a product tour:
 
 - Title: category-shift thesis.
 - Old world: current compromise and why it persists.
-- White space: market map or contrast.
+- White space: market map or contrast, including the incumbent category the product must avoid being mistaken for.
+- Positive reveal: the concrete object, job, or action bundle the audience can grasp before the architecture is named.
 - Mechanism: why the new product can break the tradeoff.
 - Proof sequence: demo verbs, screenshots, metrics, or examples.
+- Objection demo: the risky objection handled inside a normal user or buyer workflow.
 - Adoption bridge: why this is usable now.
 - Value/ask: price, action, or decision framed against accumulated value.
 - Close: compressed slogan or thesis.
@@ -195,6 +224,8 @@ Strong adapted work should:
 
 - Make the target product feel inevitable for its category, not merely attractive.
 - Name a real old-world constraint the audience recognizes.
+- Give the audience a positive object to picture before asking them to understand an abstract mechanism.
+- Avoid category collisions that make the product sound like a weaker incumbent, a confusing new product class, or a generic services wrapper.
 - Explain a mechanism that actually supports the claim.
 - Prove with actions, visuals, evidence, or examples.
 - Alternate novelty with familiarity.
@@ -208,6 +239,9 @@ Weak adapted work:
 - Starts with a feature checklist.
 - Claims a revolution before earning permission.
 - Treats competitors as foolish instead of constrained.
+- Defines the product mainly by what it is not.
+- Leads with abstract category language before the audience has a concrete object.
+- Blurs sold object, demo object, and mechanism.
 - Uses a slogan that was not proven by the artifact.
 - Hides the riskiest objection instead of demonstrating through it.
 
@@ -217,8 +251,12 @@ Before delivery, check:
 
 - The artifact has a clear belief-change sequence.
 - The status quo problem is structural and specific.
+- The sold object, demo object, and mechanism are distinct when they need to be.
+- The positive reveal is concrete enough for the audience to picture.
+- Category-collision risks have been checked and either avoided or explicitly handled.
 - The product's mechanism is visible or explainable.
 - Proof appears before the strongest claim, price, ask, or slogan.
+- The scariest objection is answered by a proof moment, not just a claim.
 - The output matches the requested medium and audience.
 - Any borrowed iPhone launch concepts are structural, not cosmetic.
 
